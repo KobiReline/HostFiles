@@ -4,3 +4,9 @@ RM_Teams_bkgd-image-v3.jpg
 RM_Teams_bkgd-image-v4.jpg
 RM_Teams_bkgd-image-v5.jpg
 RM_Teams_bkgd-image-v6.jpg
+RM_Teams_bkgd-image-v1_thumb.jpg
+RM_Teams_bkgd-image-v2_thumb.jpg
+RM_Teams_bkgd-image-v3_thumb.jpg
+RM_Teams_bkgd-image-v4_thumb.jpg
+RM_Teams_bkgd-image-v5_thumb.jpg
+RM_Teams_bkgd-image-v6_thumb.jpg
